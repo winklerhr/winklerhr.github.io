@@ -11,5 +11,5 @@ navbar:
 
 output:
   html_document:
-    theme: 
-    highlight: 
+    theme: default
+    highlight: default
