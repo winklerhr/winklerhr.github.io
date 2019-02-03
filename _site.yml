@@ -1,5 +1,6 @@
 name: "my-website"
 output_dir: "."
+
 navbar:
   title: "My Website"
   left:
@@ -7,3 +8,8 @@ navbar:
       href: resume.html
     - text: "Pagetitle"
       href: pagename.html
+
+output:
+  html_document:
+    theme: 
+    highlight: 
