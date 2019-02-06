@@ -1,5 +1,9 @@
 ---
-title: "Halley's Homepage"
+title: "About Me"
 ---
 
-Hello, Website!
+My name is Halley and I'm a junior mathematics majors at Appalachian State University. My passions include pure math and community service but I hope to find a career somewhere in the data science field. Outside of class I spend my time as a lead sales associate at Dollar General. When I'm not at work or class I enjoy scary movies, sewing clothes for old figurines, gardening, and playing with my ferret. 
+
+![Me and a pup I met on a hike](https://mathr.math.appstate.edu/s/615092aa7001edd1d8d70/files/GitRepos/winklerhr.github.io/40046260_1080399965457994_2083962267103133696_n.jpg)
+
+![My best buddy- Sable!](https://mathr.math.appstate.edu/s/615092aa7001edd1d8d70/files/GitRepos/winklerhr.github.io/IMG_20190121_150503_416.jpg)

@@ -3,11 +3,17 @@ output_dir: "."
 
 navbar:
   title: "Halley Winkler"
-  left:
+  right:
     - text: "Resume"
       href: resume.html
-    - text: "Pagetitle"
-      href: pagename.html
+    - text: "Important Links"
+      href: importantlinks.html
+    - text: ""
+      href: about.html
+    - text: ""
+      icon: fa-github fa-lg
+      href: https://github.com/winklerhr/winklerhr.github.io/
+
  
 output:
   html_document:
